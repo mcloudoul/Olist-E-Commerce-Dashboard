@@ -114,8 +114,8 @@ submission
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/username/ecommerce-analysis-dashboard.git
-cd ecommerce-analysis-dashboard
+git clone https://github.com/mcloudoul/Olist-E-Commerce-Dashboard.git
+cd Olist-E-Commerce-Dashboard
 ```
 
 ### 2. Install Dependencies
@@ -155,7 +155,7 @@ Dashboard akan terbuka secara otomatis di browser pada `http://localhost:8501`.
 
 ## 🌐 Deployment
 
-[Olist E-Commerce Dashboard](https://olist-e-commerce-dashboard-shstian.streamlit.app/)
+[🔗 Olist E-Commerce Dashboard](https://olist-e-commerce-dashboard-shstian.streamlit.app/)
 
 ---
 
@@ -163,4 +163,3 @@ Dashboard akan terbuka secara otomatis di browser pada `http://localhost:8501`.
 
 © 2026 Sri Hartati Setia Ningrum
 ```
-
