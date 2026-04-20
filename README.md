@@ -155,7 +155,7 @@ Dashboard akan terbuka secara otomatis di browser pada `http://localhost:8501`.
 
 ## 🌐 Deployment
 
-[Dashboard dapat diakses secara online melalui Streamlit Cloud] *(Tambahkan link setelah di-deploy)*
+[Olist E-Commerce Dashboard](https://olist-e-commerce-dashboard-shstian.streamlit.app/)
 
 ---
 
