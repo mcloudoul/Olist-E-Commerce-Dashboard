@@ -84,7 +84,7 @@ st.markdown("""
 # ============================================
 @st.cache_data
 def load_data():
-    df = pd.read_csv('main_data.csv')
+    df = pd.read_csv('dashboard/main_data.csv')
     df['order_purchase_timestamp'] = pd.to_datetime(df['order_purchase_timestamp'])
     df['order_year'] = df['order_purchase_timestamp'].dt.year
     df['order_month'] = df['order_purchase_timestamp'].dt.month
