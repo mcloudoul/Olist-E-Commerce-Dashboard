@@ -104,7 +104,7 @@ submission
 ├── notebook.ipynb             # Proses analisis data lengkap
 ├── README.md
 ├── requirements.txt
-└── url.txt                    # (Opsional) link deployment
+└── url.txt                    # Link deployment
 ```
 
 ---
